@@ -1,4 +1,4 @@
 # MoocFullStack
 Avoin yo: Full Stack -websovelluskehitys 
 
-osion 0 tehtävät:  https://urly.fi/2dsh 
+Osion 0 tehtävät löydät:  [täältä](https://github.com/JuusoAlastalo/MoocFullStack/tree/main/Osa0)
